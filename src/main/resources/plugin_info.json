@@ -1,0 +1,11 @@
+{
+  "name": "StringDuper",
+  "version": "1.0",
+  "description": "Dupes Strings",
+  "url": "why",
+  "authors": [ "Djem <3" ],
+  "main_class": "com.lambda.ExamplePlugin",
+  "min_api_version": "3.3",
+  "mixins": [  ],
+  "required_plugins": []
+}
